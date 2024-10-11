@@ -61,7 +61,7 @@ private val contacts = listOf(
         icon = R.drawable.sample7
     ),
     Contact(
-        name = "Joao",
+        name = "Marlon",
         phone = "(55)11 99227-6363",
         icon = R.drawable.sample8
     ),
