@@ -1,5 +1,5 @@
-## Sobre
-Esse aplicativo foi desenvolvido para praticar desenvolvimento de listas em desenvolvimento Android com recyclerview.
+## ContactList
+Esta aplicación fue desarrollada para practicar la creación de listas en el desarrollo de Android con recyclerview.
 
 ## Screenshots
 <img src = "https://github.com/roquebuarquejr/Recyclerview/assets/11612508/cdb4fc56-808d-482f-ad11-554a4bbddf91" width="260"/>
